@@ -20,7 +20,7 @@ Do you hate navigating through folders and folders of documents?
 
 Organizations are moving putting their documents and processes in private repositories. Why?
 - **Searchable**.
-- **Central location**
+- **Central Location**
 - **Transparency**
 
 Bonus:
@@ -29,9 +29,11 @@ Github uses similar social media constructs such as `@` and `#`.
 
 ## Who Uses Github
 
-Instagram
 
-Facebook
+![Instagram Logo](img/instagram-logo.png)
+
+
+![Faecbook Logo](img/facebook-logo.png)
 
 NASA
 
