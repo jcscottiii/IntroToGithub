@@ -31,3 +31,10 @@ Create a website
 
 
 ### Launch the web generator
+Go to the settings button in your repository.
+![Settings](img/settings.png)
+
+Scroll down to the Github Pages generator
+![Settings](img/gh-pages-btn.png)
+
+Change the Page Name to `About Me`.

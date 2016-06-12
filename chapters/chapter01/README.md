@@ -7,10 +7,13 @@ In technology, Github is one of the most commonly used software to collaborate.
 - Issue management
 - Many integrations with external software.
 
+---
+
 ## Why do people share code on Github?
 
 Improving the product via community contributions.
 
+---
 
 ## But, I don't want to code
 
@@ -27,19 +30,22 @@ Bonus:
 
 Github uses similar social media constructs such as `@` and `#`.
 
+---
+
 ## Who Uses Github
 
 
 ![Instagram Logo](img/instagram-logo.png)
 
-
 ![Faecbook Logo](img/facebook-logo.png)
 
-NASA
+![Snapchat Logo](img/snapchat-logo.png)
 
-NSA
+![NASA Logo](img/nasa-logo.png)
 
-Google
+![Google Logo](img/google-logo.png)
+
+---
 
 ## Résumé Replacer?
 
