@@ -1,38 +1,25 @@
 # Markdown Quick Start
 
+
 ## Headers / Titles
 
-```
-# Header 1
+|Code|Preview|
+|---|---|
+|`# Header 1`|<h1>Header 1</h1>|
+|`## Header 2`|<h2>Header 2</h2>|
+|`### Header 3`|<h3>Header 3</h3>|
+|`#### Header 4`|<h4>Header 4</h4>|
 
-## Header 2
+.. and so on
 
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-```
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
 
 ---
 
 ## Lists
 
-### Numbered List
+
+
+## Numbered List
 
 ```
 1. one
@@ -44,7 +31,8 @@
 1. two
 1. three
 
-### Bullet List
+
+## Bullet List
 
 ```
 - a
@@ -59,39 +47,25 @@
 
 ## Font Formatting
 
-Bold
 
-#### Code:
-```
-**bold text**
-```
+
+|Description|Code|Preview|
+|---||---|---|
+|Bold|`**bold text**`|**bold text**|
+|Italics|`*italics text*`|*italics text*|
+
 > Make sure have the asterisks against the text.
 
-#### Preview:
-**bold text**
 
-Italics
-
-#### Code:
-```
-*italics text*
-```
-> Make sure have the asterisks against the text.
-
-#### Preview
-*italics text*
-
----
 
 ## Code Block
 
-#### Code:
+### Code:
 `` `text` ``
 
-#### Preview:
+### Preview:
 `text`
 
----
 
 ## Link
 

@@ -2,12 +2,16 @@
 
 ## Creating a repository
 
-1. Go to the [Github homepage](https://github.com) and find the `+` button at the top right.
-  - ![](img/create-repo.png)
-1. Click the `+` sign.
-  - ![](img/create-repo-expanded.png)
-1. You should see the following form:
-  - ![Repository Creation Form](img/create-repo-form.png)
+Go to the [Github homepage](https://github.com) and find the `+` button at the top right.
+  - ![](/chapters/chapter05/img/create-repo.png)
+
+
+Click the `+` sign.
+  - ![](/chapters/chapter05/img/create-repo-expanded.png)
+
+
+You should see the following form:
+  - ![Repository Creation Form](/chapters/chapter05/img/create-repo-form.png)
 
 
 
@@ -29,6 +33,8 @@ Create a website
   - e.g. For the username `jcscottiii`, the repository should be `jcscottiii.github.io`.
   - It is important the name has your username.
 
+### Activate Prose.io
+- Go to [prose.io](http://prose.io/)
 
 ### Launch the web generator
 Go to the settings button in your repository.

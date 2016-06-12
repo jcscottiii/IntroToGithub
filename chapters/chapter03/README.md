@@ -1,8 +1,13 @@
-# Creating a Github account
+# Creating a Github Account!
 
-1. Navigate to [https://github.com/join](https://github.com/join)
-  - ![](img/github-signup.png)
+
+Navigate to [https://github.com/join](https://github.com/join)
+  - ![](/chapters/chapter03/img/github-signup.png)
+
+
 1. Pick a username that is professional.
   - e.g. Mine is `jcscottiii`
   - How people will `@` you.
-1. E-mail address and password is a given.
+1. E-mail address is a given.
+1. Password follow the requirements
+1. Click `Create an account`!

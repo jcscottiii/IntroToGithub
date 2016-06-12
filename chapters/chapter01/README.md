@@ -2,10 +2,20 @@
 
 In technology, Github is one of the most commonly used software to collaborate.
 
-- Access to code for great software that you use.
-- Peer reviewing
-- Issue management
-- Many integrations with external software.
+
+## What does that include?
+
+
+### Access to code for great software that you use.
+
+
+### Peer reviewing
+
+
+### Issue management
+
+
+### Many integrations with external software.
 
 ---
 
@@ -15,44 +25,62 @@ Improving the product via community contributions.
 
 ---
 
-## But, I don't want to code
+# But, I don't want to code
+
 
 Do you want to run a business?
 
+
 Do you hate navigating through folders and folders of documents?
+
 
 Organizations are moving putting their documents and processes in private repositories. Why?
 - **Searchable**.
 - **Central Location**
 - **Transparency**
 
-Bonus:
 
-Github uses similar social media constructs such as `@` and `#`.
+## Bonus:
 
----
+Github uses `@` and `#`.
 
-## Who Uses Github
+=
 
-
-![Instagram Logo](img/instagram-logo.png)
-
-![Faecbook Logo](img/facebook-logo.png)
-
-![Snapchat Logo](img/snapchat-logo.png)
-
-![NASA Logo](img/nasa-logo.png)
-
-![Google Logo](img/google-logo.png)
+Interactive collaboration.
 
 ---
 
-## Résumé Replacer?
-
-Have you ever written a one? Do you like writing it?
-
-Companies are using Github more than the résumé.
-- Showing vs. Telling
+# Who Uses Github
 
 
-Next Chapter - How does GitHub work?
+
+![Instagram Logo](/chapters/chapter01/img/instagram-logo.png)
+
+
+
+![Faecbook Logo](/chapters/chapter01/img/facebook-logo.png)
+
+
+
+![Snapchat Logo](/chapters/chapter01/img/snapchat-logo.png)
+
+
+
+![NASA Logo](/chapters/chapter01/img/nasa-logo.png)
+
+
+
+![Google Logo](/chapters/chapter01/img/google-logo.png)
+
+---
+
+# Resume Replacer!
+
+
+Have you ever written a one?
+
+
+Companies are using Github more than the resume.
+
+
+**Showing** vs. *Telling*
