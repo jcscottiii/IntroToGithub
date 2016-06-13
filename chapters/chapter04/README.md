@@ -13,7 +13,6 @@
 .. and so on
 
 
----
 
 ## Lists
 
@@ -43,7 +42,6 @@
 - b
 - c
 
----
 
 ## Font Formatting
 
@@ -56,6 +54,7 @@
 
 > Make sure have the asterisks against the text.
 
+Note: No underline in markdown.
 
 
 ## Code Block
@@ -76,9 +75,13 @@
 #### Preview:
 [link-text](https://github.com/)
 
----
 
 ## Images
 
-![github logo alt-text](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
-No underline in markdown.
+### Code
+
+`![alt-text](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)`
+
+### Preview
+
+ ![github logo alt-text](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)|
