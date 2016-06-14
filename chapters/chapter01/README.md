@@ -84,3 +84,25 @@ Companies are using Github more than the resume.
 
 
 **Showing** vs. *Telling*
+
+---
+
+# Summary of Concepts in These Chapters
+
+
+## Creating your own repository
+
+
+## Learn markdown
+
+
+## Making a pull request
+
+
+## Commenting on someone else's pull request
+
+
+## "Forking" a Repository
+
+
+## Creating a free website via Github
