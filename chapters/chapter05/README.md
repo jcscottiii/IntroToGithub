@@ -49,11 +49,11 @@ My goals for the future are:
 
 
 ## Select your template
-![Template Settings](/chapters/chapter05/img/template-settings.png)
+![Template Settings](/chapters/chapter05/img/template-select.png)
 
 Afterwards, press "Publish Page"
 
 
 ##  Visit your website
 
-Go to [<your-username>.github.io](<your-username>.github.io)
+Go to [http://your-username.github.io](http://your-username.github.io)

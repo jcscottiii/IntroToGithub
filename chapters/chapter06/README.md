@@ -5,6 +5,8 @@ Icebreaker: Two Truths and A Lie Repository.
 
 ## Create a repository like before
 
+Name it "TwoTruths"
+
 
 ## Creating your first file.
 
