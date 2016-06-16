@@ -12,7 +12,7 @@ Icebreaker: Two Truths and A Lie Repository.
 Note: Need to create a license (or a README) first to get the ability to create a file in the browser.
 
 
-## Creating your first file.
+## Creating a file.
 
 Click the `Create File Button`
 
@@ -49,3 +49,15 @@ Format it however you want.
 ![File Creation Commit Message](/chapters/chapter05/img/create-file-commit-msg.png)
 
 Change the selection to creating a new branch **THEN** press "Propose File"
+
+![File Creation Filename](/chapters/chapter05/img/create-file-form-filename.png)
+
+
+## Complete opening the Pull request
+
+![Open PR](/chapters/chapter06/img/open-pr-top.png)
+
+![Open PR](/chapters/chapter06/img/open-pr-bottom.png)
+
+
+![Created PR](/chapters/chapter06/img/created-pr.png)
