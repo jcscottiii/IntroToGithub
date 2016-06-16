@@ -34,8 +34,8 @@ Do you want to run a business?
 Do you hate navigating through folders and folders of documents?
 
 
-Organizations are moving putting their documents and processes in private repositories. Why?
-- **Searchable**.
+Organizations are moving towards putting their documents and processes in private repositories. Why?
+- **Searchable**
 - **Central Location**
 - **Transparency**
 

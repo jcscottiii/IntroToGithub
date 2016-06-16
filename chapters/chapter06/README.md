@@ -5,7 +5,7 @@ Icebreaker: Two Truths and A Lie Repository.
 
 ## Create a repository like before
 
-- Name it "TwoTruths"
+- Name it `TwoTruths`
 - Add the `Creative Commons Zero v1.0 Universal` license
 - Create it
 
