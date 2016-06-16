@@ -5,7 +5,11 @@ Icebreaker: Two Truths and A Lie Repository.
 
 ## Create a repository like before
 
-Name it "TwoTruths"
+- Name it "TwoTruths"
+- Add the `Creative Commons Zero v1.0 Universal` license
+- Create it
+
+Note: Need to create a license (or a README) first to get the ability to create a file in the browser.
 
 
 ## Creating your first file.
@@ -18,7 +22,6 @@ Click the `Create File Button`
 ## Name the file: `README.md`
 
 ![File Creation Filename](/chapters/chapter05/img/create-file-form-filename.png)
-
 
 Note: If you place a file called `README.md` in any folder, it will display that for you automatically when you click on that folder.
 
@@ -45,14 +48,4 @@ Format it however you want.
 
 ![File Creation Commit Message](/chapters/chapter05/img/create-file-commit-msg.png)
 
-# Contributing to a repository
-
-## Creating an Issue
-
-## `Forking` a repository
-
-## Making a pull-request.
-
-## Exercise
-
-Forking
+Change the selection to creating a new branch **THEN** press "Propose File"
