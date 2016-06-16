@@ -1,6 +1,6 @@
 # Clumsy Bird
 
-![Clumsy Bird Screenshot](/chapters/chapter09/img/clumsy-bird.png)
+![Clumsy Bird Screenshot](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/clumsy-bird.png)
 
 
 ## Goal: Create your own version on your own website

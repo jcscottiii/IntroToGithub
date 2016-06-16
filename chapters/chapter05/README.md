@@ -4,17 +4,17 @@
 
 Go to the [Github homepage](https://github.com) and find the `+` button at the top right.
 
-![](/chapters/chapter05/img/create-repo.png)
+![](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-repo.png)
 
 
 Click the `+` sign.
 
-![](/chapters/chapter05/img/create-repo-expanded.png)
+![](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-repo-expanded.png)
 
 
 You should see the following form:
 
-![Repository Creation Form](/chapters/chapter05/img/create-repo-form.png)
+![Repository Creation Form](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-repo-form.png)
 
 
 ### Create a repository as stated above.
@@ -25,10 +25,10 @@ You should see the following form:
 
 ### Launch the web generator
 Go to the settings button in your repository.
-![Settings](/chapters/chapter05/img/settings.png)
+![Settings](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/settings.png)
 
 Scroll down to the Github Pages generator
-![Settings](/chapters/chapter05/img/gh-pages-btn.png)
+![Settings](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/gh-pages-btn.png)
 
 Change the Page Name to `About Me`.
 
@@ -49,7 +49,7 @@ My goals for the future are:
 
 
 ## Select your template
-![Template Settings](/chapters/chapter05/img/template-select.png)
+![Template Settings](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/template-select.png)
 
 Afterwards, press "Publish Page"
 

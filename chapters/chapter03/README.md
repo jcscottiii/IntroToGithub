@@ -2,7 +2,7 @@
 
 
 Navigate to [https://github.com/join](https://github.com/join)
-  - ![](/chapters/chapter03/img/github-signup.png)
+  - ![](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/github-signup.png)
 
 
 1. Pick a username that is professional.

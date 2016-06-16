@@ -16,12 +16,12 @@ Note: Need to create a license (or a README) first to get the ability to create 
 
 Click the `Create File Button`
 
-![File Creation Button](/chapters/chapter05/img/create-file-btn.png)
+![File Creation Button](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-btn.png)
 
 
 ## Name the file: `README.md`
 
-![File Creation Filename](/chapters/chapter05/img/create-file-form-filename.png)
+![File Creation Filename](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-filename.png)
 
 Note: If you place a file called `README.md` in any folder, it will display that for you automatically when you click on that folder.
 
@@ -30,7 +30,7 @@ Note: If you place a file called `README.md` in any folder, it will display that
 
 |Edit|Preview|
 |---|---|
-|![File Creation Edit](/chapters/chapter05/img/create-file-form-edit.png)|![File Creation Preview](/chapters/chapter05/img/create-file-form-preview.png)|
+|![File Creation Edit](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-edit.png)|![File Creation Preview](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-preview.png)|
 
 
 ## Two Truths and A Lie:
@@ -46,18 +46,18 @@ Format it however you want.
 
 ## Committing the File
 
-![File Creation Commit Message](/chapters/chapter05/img/create-file-commit-msg.png)
+![File Creation Commit Message](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-commit-msg.png)
 
 Change the selection to creating a new branch **THEN** press "Propose File"
 
-![File Creation Filename](/chapters/chapter05/img/create-file-form-filename.png)
+![File Creation Filename](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-filename.png)
 
 
 ## Complete opening the Pull request
 
-![Open PR](/chapters/chapter06/img/open-pr-top.png)
+![Open PR](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/open-pr-top.png)
 
-![Open PR](/chapters/chapter06/img/open-pr-bottom.png)
+![Open PR](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/open-pr-bottom.png)
 
 
-![Created PR](/chapters/chapter06/img/created-pr.png)
+![Created PR](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/created-pr.png)

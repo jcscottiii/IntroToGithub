@@ -1,7 +1,7 @@
 # Becoming one with the Github Ecosystem
 
 
-![Buttons of Github](/chapters/chapter08/img/github-top-btns.png)
+![Buttons of Github](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/github-top-btns.png)
 
 
 ## Watch

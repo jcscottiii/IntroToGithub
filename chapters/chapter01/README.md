@@ -54,23 +54,23 @@ Interactive collaboration.
 
 
 
-![Instagram Logo](/chapters/chapter01/img/instagram-logo.png)
+![Instagram Logo](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/instagram-logo.png)
 
 
 
-![Faecbook Logo](/chapters/chapter01/img/facebook-logo.png)
+![Faecbook Logo](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/facebook-logo.png)
 
 
 
-![Snapchat Logo](/chapters/chapter01/img/snapchat-logo.png)
+![Snapchat Logo](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/snapchat-logo.png)
 
 
 
-![NASA Logo](/chapters/chapter01/img/nasa-logo.png)
+![NASA Logo](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/nasa-logo.png)
 
 
 
-![Google Logo](/chapters/chapter01/img/google-logo.png)
+![Google Logo](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/google-logo.png)
 
 ---
 
@@ -91,23 +91,23 @@ Companies are using Github more than the resume.
 
 
 ## Creating your own repository
-![Overivew](/chapters/chapter01/img/create_repo_overview.png)
+![Overivew](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create_repo_overview.png)
 
 
 ## Learn markdown
 
 |Edit|Preview|
 |---|---|
-|![File Creation Edit](/chapters/chapter05/img/create-file-form-edit.png)|![File Creation Preview](/chapters/chapter05/img/create-file-form-preview.png)|
+|![File Creation Edit](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-edit.png)|![File Creation Preview](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create-file-form-preview.png)|
 
 
 ## Making a pull request
-![Overivew](/chapters/chapter01/img/create_pr_overview.png)
+![Overivew](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/create_pr_overview.png)
 
 
 ## Commenting on someone else's pull request
-![Overivew](/chapters/chapter01/img/review_and_merge_pr_overview.png)
+![Overivew](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/review_and_merge_pr_overview.png)
 
 
 ## "Forking" a Repository
-![Overivew](/chapters/chapter01/img/fork_repo_overview.png)
+![Overivew](https://raw.githubusercontent.com/jcscottiii/IntroToGithubMaterials/master/img/fork_repo_overview.png)
