@@ -96,6 +96,10 @@ Companies are using Github more than the resume.
 
 ## Learn markdown
 
+|Edit|Preview|
+|---|---|
+|![File Creation Edit](/chapters/chapter05/img/create-file-form-edit.png)|![File Creation Preview](/chapters/chapter05/img/create-file-form-preview.png)|
+
 
 ## Making a pull request
 ![Overivew](/chapters/chapter01/img/create_pr_overview.png)

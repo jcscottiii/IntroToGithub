@@ -1,11 +1,6 @@
 # Your First Repository
 
 
-## Exercise
-
-Icebreaker: Two Truths and A Lie Repository.
-
-
 Go to the [Github homepage](https://github.com) and find the `+` button at the top right.
 
 ![](/chapters/chapter05/img/create-repo.png)
