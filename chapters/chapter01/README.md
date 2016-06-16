@@ -91,18 +91,19 @@ Companies are using Github more than the resume.
 
 
 ## Creating your own repository
+![Overivew](/chapters/chapter01/img/create_repo_overview.png)
 
 
 ## Learn markdown
 
 
 ## Making a pull request
+![Overivew](/chapters/chapter01/img/create_pr_overview.png)
 
 
 ## Commenting on someone else's pull request
+![Overivew](/chapters/chapter01/img/review_and_merge_pr_overview.png)
 
 
 ## "Forking" a Repository
-
-
-## Creating a free website via Github
+![Overivew](/chapters/chapter01/img/fork_repo_overview.png)
