@@ -14,7 +14,10 @@ Go to [https://github.com/jcscottiii/clumsy-bird](https://github.com/jcscottiii/
 Click the `Fork` button at the top right.
 
 
-You need to make a change to deploy your own version. Check out this file `build/clumsy-min.js` and look for phrases like:
+You need to make a change to deploy your own version. Check out this file:
+- `js/entities/entities.js`
+
+Look for phrases like:
 - `gravity`
 - `gravityForce`
 
