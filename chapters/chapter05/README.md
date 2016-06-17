@@ -37,14 +37,14 @@ Add the following code and fill out your information
 ```
 ## Welcome
 
-My name is <Insert First Name>
+My name is Insert First Name
 
-My biggest accomplishment is **<insert accomplishment>**
+My biggest accomplishment is **insert accomplishment**
 
 My goals for the future are:
 
-1. <insert goal #1>
-1. <insert goal #2>
+1. insert goal #1
+1. insert goal #2
 ```
 
 
